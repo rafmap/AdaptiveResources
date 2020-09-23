@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SMDSocket</string>
+    <string name="ligar_server">Ligar Server</string>
+    <string name="status">Status</string>
+    <string name="desconectado">Desconectado</string>
+    <string name="_000_000_000_000_0000">000.000.000.000.0000</string>
+    <string name="al_mundo">Alô, Mundo</string>
+    <string name="acerte_o_n_mero">Acerte o número</string>
+</resources>

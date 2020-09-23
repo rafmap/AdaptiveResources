@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMDSocket en France</string>
+    <string name="ligar_server">Démarrer le Server</string>
+    <string name="status">Status</string>
+    <string name="desconectado">Déconnecté</string>
+    <string name="_000_000_000_000_0000">000.000.000.000.0000</string>
+    <string name="al_mundo">Bonjour, Monde</string>
+    <string name="acerte_o_n_mero">Quel est le numéro?</string>
+</resources>
